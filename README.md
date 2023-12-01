@@ -24,3 +24,4 @@ test.db | app5.jsやapp6.jsで使用するデータベース
 
 test
 test
+
